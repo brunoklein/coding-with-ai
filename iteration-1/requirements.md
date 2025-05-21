@@ -1,0 +1,1 @@
+Create me Web 3D maze game with a soldier character placed in the middle of the maze.
