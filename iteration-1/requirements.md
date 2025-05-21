@@ -1,1 +1,1 @@
-Create me Web 3D maze game with a soldier character placed in the middle of the maze.
+Create a 3d maze game with a soldier character, using JavaScript and HTML. The final result should be a single maze-game.html file.

@@ -3,26 +3,25 @@
 ## Iteration 1 - Prompt
 
 ```
-Using the iteration-1 folder, read the requirements.md attentively and implement what is being asked.
+Work directory: iteration-1
+
+Implement the requirements.md
 ```
 
 ## Iteration 2 - Prompt
 
 ```
-Using the iteration-2 folder, read the requirements.md attentively and implement what is being asked.
+Work directory: iteration-2
+
+Implement the requirements.md
 ```
 
 ## Iteration 3 - Prompt
 
 ```
-Using the iteration-3 folder, read the requirements.md attentively and break down the implementation into tasks using a tasks.md file - you MUST fully cover all requirements. The task's list should be placed under a markdown table, containing the following columns: ID, Task Description, Notes, Depends on, Status.
-
-Guidelines:
-
-(1) Before start the implementation, ask for user confirmation on the tasks.md file created.
-(2) Use the Notes column in the tasks.md file to add any complementary notes from requirements.md in order to provide correct and full coverage of all requirements.
-(3) Use the Status column in the tasks.md file to track the progress of each task once it's completed.
-(4) Once a task is completed, commit changes - use the commit message "Task ID: Task Description"
+Work directory: iteration-3
+ 
+Create a tasks.md file that breaks down requirements.md into small tasks list that should contain a table, containing 3 columns: task description, technical requirements and status. Before start implement each tasks, mark them as in progress and when finished, mark as done. Use requirements.md for technical guidance and context. Start implementation.
 ```
 
 ## Testing with Playwright MCP
