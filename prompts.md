@@ -24,6 +24,8 @@ Work directory: iteration-3
 Create a tasks.md file that breaks down requirements.md into small tasks list that should contain a table, containing 3 columns: task description, technical requirements and status. Before start implement each tasks, mark them as in progress and when finished, mark as done. Use requirements.md for technical guidance and context. Start implementation.
 ```
 
+*Suggestion: update the iteration 3 prompt and ask for a git commit after each task is completed.*
+
 ## Testing with Playwright MCP
 
 ### Configuration
